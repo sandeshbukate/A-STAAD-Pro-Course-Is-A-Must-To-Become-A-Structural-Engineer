@@ -1,0 +1,2 @@
+# A-STAAD-Pro-Course-Is-A-Must-To-Become-A-Structural-Engineer
+STAAD is nothing but Structural Analysis And Design. STAAD Pro programming is broadly utilized as a part of structural analysis and designing structures – towers, buildings, bridges, transportation facilities, utility and industrial structures. Designs can include building structures incorporating culverts, petrochemical plants, bridges, tunnels, piles; and construction materials such as timber, steel, concrete, aluminium and cold-formed steel.
